@@ -29,10 +29,6 @@ To run this project, you need the following software installed on your machine:
 
 1. Clone this repository to your local machine or download the ZIP file and extract it.
 
-2. Obtain a Mapbox access token by creating a free account on the Mapbox website (https://www.mapbox.com/). This token is required to use the Mapbox Satellite tiles.
-
-3. Replace `'YOUR_MAPBOX_ACCESS_TOKEN'` in the `main.js` file with your actual Mapbox access token.
-
 ## Usage
 
 1. Open the `index.html` file in your web browser.
@@ -54,5 +50,3 @@ To run this project, you need the following software installed on your machine:
 - Leaflet (https://leafletjs.com/): A powerful JavaScript library for interactive maps.
 
 - USGS Earthquake Hazards Program (https://earthquake.usgs.gov/): Providing real-time earthquake data and educational resources.
-
-- Mapbox (https://www.mapbox.com/): Offering satellite imagery and map styles for web applications.
